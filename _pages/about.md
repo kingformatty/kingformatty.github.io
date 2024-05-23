@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: /
 subtitle: <p> <a href='https://www.ee.ucla.edu/'>Department of Electrical and Computer Engineering, UCLA</a> </p>
           <p> <a href='https://www.seas.ucla.edu/spapl/'>Speech Processing and Auditory Perception Lab</a> </p>
 
