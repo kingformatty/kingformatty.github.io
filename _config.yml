@@ -9,11 +9,6 @@ last_name: Wang
 email: wang7875@g.ucla.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  <p> Ph.D. Candidate</p>
-  <p> <a href='https://www.seas.ucla.edu/spapl/'>Speech Processing and Auditory Perception Lab</a> </p>
-  <p> <a href="https://www.ee.ucla.edu/">Department of Electrical and Computer Engineering </a> </p>
-  <p> University of California, Los Angeles </p>
-
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
