@@ -220,7 +220,11 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages_unused/blog.md
+  - _pages_unused/dropdown.md
+  - _pages_unused/news.md
+  - _pages_unused/repositories.md
+  - _pages_unused/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -289,8 +293,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wang]
+  first_name: [Jinhan]
 
   style: apa
   locale: en
