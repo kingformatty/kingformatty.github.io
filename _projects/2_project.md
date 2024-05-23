@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speechformer-CTC: Sequential Modeling of Depression from Speech Signals
+title: Speechformer-CTC, Sequential Modeling of Depression from Speech Signals
 description:
 importance: 2
 category: work
