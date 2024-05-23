@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Jinhan wang is currently a Ph.D. Candidate in Prof. Abeer Alwan’s Speech Processing and Auditory Perception Lab at the Electrical and Computer Engineering Department, UCLA. He previously interned at Amazon from 2021 to 2023. Jinhan’s research primarily focuses on speech modeling in depression detection. Prior to that, Jinhan Wang received his Bachelor in Electrical Engineering from University of Minnesota, Twin Cities, in 2019 and Master in Electrical and Computer Engineering from UCLA in 2021.
+Jinhan Wang is currently a Ph.D. Candidate in Prof. Abeer Alwan’s Speech Processing and Auditory Perception Lab at the Electrical and Computer Engineering Department, UCLA. He previously interned at Amazon from 2021 to 2023. Jinhan’s research primarily focuses on speech modeling in depression detection. Prior to that, Jinhan Wang received his Bachelor in Electrical Engineering from University of Minnesota, Twin Cities, in 2019 and Master in Electrical and Computer Engineering from UCLA in 2021.
